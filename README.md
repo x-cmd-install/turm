@@ -23,7 +23,23 @@ x install turm
 - **Latest**: `v0.14.0` (2026-03-07)
 - **Last commit**: 2026-07-02
 - **Assets in release**: 12
-- **Published**: 2026-03-07T22:13:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [turm-aarch64-unknown-linux-gnu.tar.gz](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-aarch64-unknown-linux-gnu.tar.gz) | 1.5 MiB | `native/linux/arm64/glibc` |
+| [turm-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-aarch64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/arm64/glibc` |
+| [turm-aarch64-unknown-linux-musl.tar.gz](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-aarch64-unknown-linux-musl.tar.gz) | 1.5 MiB | `native/linux/arm64/musl` |
+| [turm-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-aarch64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/arm64/musl` |
+| [turm-arm-unknown-linux-musleabihf.tar.gz](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-arm-unknown-linux-musleabihf.tar.gz) | 1.5 MiB | `native/linux/arm/musl` |
+| [turm-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-arm-unknown-linux-musleabihf.tar.gz.sha256) | 65 B | `native/linux/arm/musl` |
+| [turm-i686-unknown-linux-musl.tar.gz](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-i686-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x86/musl` |
+| [turm-i686-unknown-linux-musl.tar.gz.sha256](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-i686-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/x86/musl` |
+| [turm-x86_64-unknown-linux-gnu.tar.gz](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-x86_64-unknown-linux-gnu.tar.gz) | 1.6 MiB | `native/linux/x64/glibc` |
+| [turm-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-x86_64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/x64/glibc` |
+| [turm-x86_64-unknown-linux-musl.tar.gz](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
+| [turm-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-x86_64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -57,8 +73,8 @@ Total: **2,115** lines of code across **11** files in the top 5 languages.
 Install metadata for turm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `turm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/turm.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/turm.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:12:41Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:53:45Z._
