@@ -12,6 +12,17 @@ TUI for the Slurm Workload Manager
 x install turm
 ```
 
+## Code insight
+
+Total: **2,115** lines of code across **11** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,012 | 32 | 200 | 5 |
+| Bash | 84 | 3 | 19 | 3 |
+| Toml | 19 | 1 | 2 | 1 |
+| Markdown | 0 | 148 | 112 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/kabouzeid/turm>
@@ -23,6 +34,25 @@ x install turm
 - **Latest**: `v0.14.0` (2026-03-07)
 - **Last commit**: 2026-07-02
 - **Assets in release**: 12
+
+## Popularity
+
+- **Stars**: 504 · **Forks**: 35 · **Open issues**: 22 · **Contributors**: 7
+
+## Totals (cumulative)
+
+- **Releases**: 17 · **Merged PRs**: 33 · **Open PRs**: 15 · **Closed issues**: 8 · **Open issues**: 14 · **Commits**: 130
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 9 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -41,33 +71,6 @@ x install turm
 | [turm-x86_64-unknown-linux-musl.tar.gz](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-x86_64-unknown-linux-musl.tar.gz) | 1.6 MiB | `native/linux/x64/musl` |
 | [turm-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/kabouzeid/turm/releases/download/v0.14.0/turm-x86_64-unknown-linux-musl.tar.gz.sha256) | 65 B | `native/linux/x64/musl` |
 
-## Popularity
-
-- **Stars**: 504 · **Forks**: 35 · **Open issues**: 22 · **Contributors**: 7
-
-## Totals (cumulative)
-
-- **Releases**: 17 · **Merged PRs**: 33 · **Open PRs**: 15 · **Closed issues**: 8 · **Open issues**: 14 · **Commits**: 130
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 6 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **2,115** lines of code across **11** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,012 | 32 | 200 | 5 |
-| Bash | 84 | 3 | 19 | 3 |
-| Toml | 19 | 1 | 2 | 1 |
-| Markdown | 0 | 148 | 112 | 2 |
-
 ## Improve this data
 
 Install metadata for turm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `turm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +80,4 @@ Install metadata for turm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:53:45Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:03:28Z._
