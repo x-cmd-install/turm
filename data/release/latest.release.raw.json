@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:7da358d270a0fe14e040b428ae3b6fd23b06ea13a56852bbff286929a4b4df55",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-03-07T22:15:38Z",
       "updated_at": "2026-03-07T22:15:38Z",
       "browser_download_url": "https://github.com/karimknaebel/turm/releases/download/v0.14.0/turm-arm-unknown-linux-musleabihf.tar.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1684641,
       "digest": "sha256:721b7a7c881e40734c8bacde8d73e7b9fcca71e41b1bc7c42f4b6c9b90e4874c",
-      "download_count": 246,
+      "download_count": 248,
       "created_at": "2026-03-07T22:15:38Z",
       "updated_at": "2026-03-07T22:15:38Z",
       "browser_download_url": "https://github.com/karimknaebel/turm/releases/download/v0.14.0/turm-x86_64-unknown-linux-musl.tar.gz"
