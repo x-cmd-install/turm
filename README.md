@@ -32,7 +32,7 @@ Total: **3,742** lines of code across **15** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.17.0` (2026-10-19)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-26
 - **Assets in release**: 12
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **3,742** lines of code across **15** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 36 · **Open PRs**: 13 · **Closed issues**: 8 · **Open issues**: 14 · **Commits**: 152
+- **Releases**: 20 · **Merged PRs**: 37 · **Open PRs**: 13 · **Closed issues**: 8 · **Open issues**: 14 · **Commits**: 153
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 12 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for turm lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:07:02Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:26:57Z._
