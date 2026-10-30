@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1578532,
       "digest": "sha256:456142cc18f80205bf9eecdfc138fc6c6e062409eebf5db6a42cb84bd1bf2313",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-19T20:00:52Z",
       "updated_at": "2026-10-19T20:00:53Z",
       "browser_download_url": "https://github.com/karimknaebel/turm/releases/download/v0.17.0/turm-aarch64-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1708342,
       "digest": "sha256:6bd3eb21c63c83854b3fed25f0d13049562b9e55d8046198e2f6270f85873e2f",
-      "download_count": 35,
+      "download_count": 40,
       "created_at": "2026-10-19T20:00:52Z",
       "updated_at": "2026-10-19T20:00:53Z",
       "browser_download_url": "https://github.com/karimknaebel/turm/releases/download/v0.17.0/turm-x86_64-unknown-linux-musl.tar.gz"
